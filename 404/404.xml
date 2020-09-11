@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- Github remote -->
+  <remote name="github"
+          fetch="https://github.com/" />
+
+  <remote name="404"
+          fetch="https://github.com/P-404/"
+          revision="qemu" />
+
+  <remote name="labs"
+          fetch="https://github.com/p404-labs/"
+          revision="11" />
+
+</manifest>
